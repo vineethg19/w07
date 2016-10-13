@@ -1,4 +1,4 @@
-{   "name": "M07",
+{   "name": "W07",
     "version": "0.0.1",
     "description": "simple guestbook app",
     "main": "gbapp.js",
@@ -9,10 +9,10 @@
         "ejs": "latest"
     },
     "author": "Vineeth Gajula",
-    "homepage": "https://bitbucket.org/professorcase/m07",
+    "homepage": "https://github.com/vineethgajula1",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/m07"
+        "url": "https://github.com/vineethgajula1/w07"
     },
      "license": "Apache-2.0"
 }
